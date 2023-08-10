@@ -2,11 +2,10 @@
 
 cattleBot is a chatbot designed to answer questions related to cattle farming and cattle-related topics.
 It provides information and answers about various aspects of cattle, such as cattle breeds, farming practices, health management, and more.
-```
+
 ## Getting Started
 
 To get started with cattleBot, follow these steps:
-
 1. Clone the repository using Git:
 
    ```bash
